@@ -1,6 +1,6 @@
 Welcome to Solve-Yahtzee: an R program that can solve user specified versions of Yahtzee.
 
-1. To run the program download all four files into an instance of R.
+1. To run the program download all four R files into an instance of R.
 2. In the bottom of the Yahtzee.R file there are five lines that should only be run after loading every function from the four files
 3. Run all functions in the four files
 4. In the Yahtzee.R file at the bottom there is the line "Yahtzee()" run it. A prompt will appear in the console asking if a standard game of Yahtzee should be created or a custom one.
