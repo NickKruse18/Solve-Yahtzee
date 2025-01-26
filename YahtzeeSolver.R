@@ -1,6 +1,5 @@
 library(shiny)
 library(gridExtra)
-library(rsconnect)
 source("Dependences.R")
 
 diceinput = ceiling(sides*runif(dice))
